@@ -1,0 +1,1 @@
+html,body,#root{background:#000;height:100%;margin:0}.dragon-stage{background:#000;position:fixed;inset:0;overflow:hidden}.dragon-svg{width:100%;height:100%;display:block}.dragon-svg .seg,.dragon-svg .wing{will-change:transform}
